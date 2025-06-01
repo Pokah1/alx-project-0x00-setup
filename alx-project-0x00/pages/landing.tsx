@@ -6,6 +6,9 @@ const Landing: React.FC =  () => {
     <div>
       <h1 className=" text-xl font-extralight">Landing Page</h1>
         <Card/>
+        <Card/>
+        <Card/>
+
         <Button title="Continue"
         styles="text-sm rounded-sm bg-green-400 hover:bg-green-400/50 "
         />
